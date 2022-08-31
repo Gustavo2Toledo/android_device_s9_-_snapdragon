@@ -20,4 +20,5 @@ DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay
 
 # Inherit from sdm845-common
+#Aqui e pego o common.mk do snap 845
 $(call inherit-product, device/samsung/sdm845-common/common.mk)
