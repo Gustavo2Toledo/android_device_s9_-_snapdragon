@@ -1,5 +1,5 @@
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/star2qltechn.mk \
+	$(LOCAL_DIR)/lineage_star2qltechn.mk \
 	
 COMMON_LUNCH_CHOICES := \
 	lineage_star2qltechn-userdebug \
