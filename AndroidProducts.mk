@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/lineage_s9+.mk \
+	$(LOCAL_DIR)/star2qltechn.mk \
 	
 COMMON_LUNCH_CHOICES := \
-	lineage_s9+-userdebug \
-	lineage_s9+-user \
-	lineage_s9+-eng
+	lineage_star2qltechn-userdebug \
+	lineage_star2qltechn-user \
+	lineage_star2qltechn-eng
